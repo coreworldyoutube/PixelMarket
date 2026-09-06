@@ -956,7 +956,7 @@
 
                     "symbol": "En",
 
-                    "type": "BLOCK",
+                    "type": "MATERIAL",
 
                     "texture":
                         "tex/redstone/ender_end.png"
@@ -969,7 +969,7 @@
 
                     "symbol": "Bz",
 
-                    "type": "BLOCK",
+                    "type": "MATERIAL",
 
                     "texture":
                         "tex/redstone/blaze.png"
@@ -982,10 +982,10 @@
 
                     "symbol": "Ss",
 
-                    "type": "BLOCK",
+                    "type": "MATERIAL",
 
                     "texture":
-                        "tex/redstone/Ss.png"
+                        "tex/redstone/skystone.png"
                 },
 
                 {
@@ -995,10 +995,23 @@
 
                     "symbol": "Nr",
 
-                    "type": "BLOCK",
+                    "type": "MATERIAL",
 
                     "texture":
-                        "tex/redstone/nr.png"
+                        "tex/redstone/netherrack.png"
+                },
+
+                {
+                    "id": "glowstone",
+
+                    "name": "Glowstone",
+
+                    "symbol": "Go",
+
+                    "type": "MATERIAL",
+
+                    "texture":
+                        "tex/redstone/glowstone.png"
                 }
 
 
