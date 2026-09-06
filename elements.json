@@ -932,7 +932,7 @@
             "label": "REDSTONE",
 
             "description":
-                "Redstone系統のテクスチャをここに追加できます。",
+                "???。",
 
             "items": [
 
@@ -941,7 +941,7 @@
 
                     "name": "Redstone",
 
-                    "symbol": "RS",
+                    "symbol": "Rs",
 
                     "type": "MATERIAL",
 
@@ -950,43 +950,31 @@
                 },
 
                 {
-                    "id": "redstone_block",
+                    "id": "ender_end",
 
-                    "name": "Redstone Block",
+                    "name": "Ender End",
 
-                    "symbol": "RB",
-
-                    "type": "BLOCK",
-
-                    "texture":
-                        "tex/redstone/redstone_block.png"
-                },
-
-                {
-                    "id": "redstone_torch",
-
-                    "name": "Redstone Torch",
-
-                    "symbol": "RT",
-
-                    "type": "ITEM",
-
-                    "texture":
-                        "tex/redstone/redstone_torch.png"
-                },
-
-                {
-                    "id": "redstone_lamp",
-
-                    "name": "Redstone Lamp",
-
-                    "symbol": "RL",
+                    "symbol": "En",
 
                     "type": "BLOCK",
 
                     "texture":
-                        "tex/redstone/redstone_lamp.png"
+                        "tex/redstone/ender_end.png"
+                },
+
+                {
+                    "id": "blaze",
+
+                    "name": "Blaze",
+
+                    "symbol": "bz",
+
+                    "type": "BLOCK",
+
+                    "texture":
+                        "tex/redstone/blaze.png"
                 }
+
 
             ]
         }
