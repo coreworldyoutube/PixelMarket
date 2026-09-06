@@ -946,7 +946,7 @@
                     "type": "MATERIAL",
 
                     "texture":
-                        "tex/redstone/redstone.png"
+                        "tex/ingot/redstone.png"
                 },
 
                 {
@@ -959,7 +959,7 @@
                     "type": "MATERIAL",
 
                     "texture":
-                        "tex/redstone/ender_end.png"
+                        "tex/ingot/ender_end.png"
                 },
 
                 {
@@ -972,7 +972,7 @@
                     "type": "MATERIAL",
 
                     "texture":
-                        "tex/redstone/blaze.png"
+                        "tex/ingot/blaze.png"
                 },
 
                 {
@@ -985,7 +985,7 @@
                     "type": "MATERIAL",
 
                     "texture":
-                        "tex/redstone/skystone.png"
+                        "tex/ingot/skystone.png"
                 },
 
                 {
@@ -998,7 +998,7 @@
                     "type": "MATERIAL",
 
                     "texture":
-                        "tex/redstone/netherrack.png"
+                        "tex/ingot/netherrack.png"
                 },
 
                 {
@@ -1011,7 +1011,7 @@
                     "type": "MATERIAL",
 
                     "texture":
-                        "tex/redstone/glowstone.png"
+                        "tex/ingot/glowstone.png"
                 }
 
 
