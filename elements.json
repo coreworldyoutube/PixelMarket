@@ -967,12 +967,38 @@
 
                     "name": "Blaze",
 
-                    "symbol": "bz",
+                    "symbol": "Bz",
 
                     "type": "BLOCK",
 
                     "texture":
                         "tex/redstone/blaze.png"
+                },
+
+                {
+                    "id": "ae2_sky",
+
+                    "name": "AE2_sky",
+
+                    "symbol": "Ss",
+
+                    "type": "BLOCK",
+
+                    "texture":
+                        "tex/redstone/Ss.png"
+                },
+
+                {
+                    "id": "netherrack",
+
+                    "name": "Netherrack",
+
+                    "symbol": "Nr",
+
+                    "type": "BLOCK",
+
+                    "texture":
+                        "tex/redstone/nr.png"
                 }
 
 
