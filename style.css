@@ -1,3 +1,4 @@
+```css
 /* =========================================================
    RESET
    ========================================================= */
@@ -21,7 +22,7 @@ body {
         Helvetica,
         sans-serif;
 
-    padding: 40px;
+    padding: 30px;
 
     overflow-x: auto;
 }
@@ -43,24 +44,24 @@ body {
 
 .title {
     text-align: center;
-    margin-bottom: 35px;
+    margin-bottom: 26px;
 }
 
 .title h1 {
     margin: 0;
 
-    font-size: 34px;
+    font-size: 26px;
     font-weight: 700;
 
-    letter-spacing: 4px;
+    letter-spacing: 3px;
 }
 
 .title p {
-    margin: 10px 0 0;
+    margin: 8px 0 0;
 
     color: #777;
 
-    font-size: 13px;
+    font-size: 10px;
 }
 
 
@@ -69,7 +70,7 @@ body {
    ========================================================= */
 
 .collection-section {
-    margin-top: 55px;
+    margin-top: 41px;
 }
 
 .collection-section:first-child {
@@ -77,22 +78,22 @@ body {
 }
 
 .section-title {
-    margin: 0 0 18px;
+    margin: 0 0 14px;
 
     color: #aaa;
 
-    font-size: 18px;
+    font-size: 14px;
     font-weight: 700;
 
-    letter-spacing: 3px;
+    letter-spacing: 2px;
 }
 
 .section-description {
-    margin: -8px 0 18px;
+    margin: -6px 0 14px;
 
     color: #666;
 
-    font-size: 12px;
+    font-size: 9px;
 }
 
 
@@ -103,17 +104,17 @@ body {
 .error-box {
     width: 100%;
 
-    margin-bottom: 25px;
-    padding: 15px;
+    margin-bottom: 19px;
+    padding: 11px;
 
     border: 1px solid #663333;
-    border-radius: 7px;
+    border-radius: 5px;
 
     background: #211111;
 
     color: #dd9999;
 
-    font-size: 13px;
+    font-size: 10px;
 }
 
 
@@ -125,12 +126,12 @@ body {
     display: grid;
 
     grid-template-columns:
-        repeat(18, 86px);
+        repeat(18, 65px);
 
     grid-template-rows:
-        repeat(7, 120px);
+        repeat(7, 90px);
 
-    gap: 5px;
+    gap: 4px;
 }
 
 
@@ -143,11 +144,11 @@ body {
 .series-marker {
     position: relative;
 
-    width: 86px;
-    height: 120px;
+    width: 65px;
+    height: 90px;
 
     border: 1px solid #444;
-    border-radius: 7px;
+    border-radius: 5px;
 
     background:
         linear-gradient(
@@ -190,10 +191,10 @@ body {
 .atomic-number {
     position: absolute;
 
-    top: 6px;
-    left: 7px;
+    top: 5px;
+    left: 5px;
 
-    font-size: 10px;
+    font-size: 8px;
 
     color: #777;
 
@@ -208,17 +209,17 @@ body {
 .symbol {
     position: absolute;
 
-    top: 5px;
+    top: 4px;
 
     left: 0;
     right: 0;
 
     text-align: center;
 
-    font-size: 25px;
+    font-size: 19px;
     font-weight: bold;
 
-    line-height: 30px;
+    line-height: 23px;
 
     color: #f0f0f0;
 }
@@ -234,9 +235,9 @@ body {
     left: 0;
     right: 0;
 
-    top: 37px;
+    top: 28px;
 
-    height: 62px;
+    height: 47px;
 
     display: flex;
 
@@ -250,8 +251,8 @@ body {
    ========================================================= */
 
 .texture {
-    width: 56px;
-    height: 56px;
+    width: 42px;
+    height: 42px;
 
     object-fit: contain;
 
@@ -272,8 +273,8 @@ body {
    ========================================================= */
 
 .null {
-    width: 56px;
-    height: 56px;
+    width: 42px;
+    height: 42px;
 
     border: 1px dashed #3d3d3d;
 
@@ -284,7 +285,7 @@ body {
 
     color: #4d4d4d;
 
-    font-size: 10px;
+    font-size: 8px;
 
     letter-spacing: 1px;
 }
@@ -297,20 +298,20 @@ body {
 .name {
     position: absolute;
 
-    left: 4px;
-    right: 4px;
+    left: 3px;
+    right: 3px;
 
-    bottom: 7px;
+    bottom: 5px;
 
-    height: 14px;
+    height: 11px;
 
     text-align: center;
 
     color: #999;
 
-    font-size: 9px;
+    font-size: 7px;
 
-    line-height: 14px;
+    line-height: 11px;
 
     white-space: nowrap;
 
@@ -332,7 +333,7 @@ body {
 
     color: #666;
 
-    font-size: 18px;
+    font-size: 14px;
     font-weight: 700;
 
     letter-spacing: 1px;
@@ -351,11 +352,11 @@ body {
 .series-marker small {
     position: absolute;
 
-    bottom: 12px;
+    bottom: 9px;
 
     color: #444;
 
-    font-size: 8px;
+    font-size: 6px;
 
     letter-spacing: 1px;
 }
@@ -369,13 +370,13 @@ body {
     display: grid;
 
     grid-template-columns:
-        86px
-        repeat(15, 86px);
+        65px
+        repeat(15, 65px);
 
     grid-template-rows:
-        120px;
+        90px;
 
-    gap: 5px;
+    gap: 4px;
 }
 
 
@@ -384,8 +385,8 @@ body {
    ========================================================= */
 
 .series-label {
-    width: 86px;
-    height: 120px;
+    width: 65px;
+    height: 90px;
 
     display: flex;
 
@@ -394,15 +395,15 @@ body {
 
     color: #555;
 
-    font-size: 11px;
+    font-size: 8px;
 
     writing-mode: vertical-rl;
 
-    letter-spacing: 2px;
+    letter-spacing: 1px;
 
     border: 1px dashed #333;
 
-    border-radius: 7px;
+    border-radius: 5px;
 }
 
 
@@ -414,12 +415,12 @@ body {
     display: grid;
 
     grid-template-columns:
-        repeat(10, 86px);
+        repeat(10, 65px);
 
     grid-auto-rows:
-        120px;
+        90px;
 
-    gap: 8px;
+    gap: 6px;
 }
 
 
@@ -430,12 +431,12 @@ body {
 .category-item .item-type {
     position: absolute;
 
-    top: 7px;
-    right: 7px;
+    top: 5px;
+    right: 5px;
 
     color: #555;
 
-    font-size: 8px;
+    font-size: 6px;
 
     letter-spacing: 1px;
 }
@@ -455,13 +456,13 @@ body {
    ========================================================= */
 
 .footer {
-    margin-top: 35px;
+    margin-top: 26px;
 
     text-align: center;
 
     color: #555;
 
-    font-size: 12px;
+    font-size: 9px;
 }
 
 
@@ -472,7 +473,7 @@ body {
 @media (max-width: 900px) {
 
     body {
-        padding: 20px;
+        padding: 15px;
 
         overflow-x: auto;
     }
@@ -482,3 +483,4 @@ body {
     }
 
 }
+```
