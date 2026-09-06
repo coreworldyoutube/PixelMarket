@@ -950,7 +950,7 @@
                 },
 
                 {
-                    "id": "ender_end",
+                    "id": "enderend",
 
                     "name": "Ender End",
 
@@ -959,7 +959,7 @@
                     "type": "MATERIAL",
 
                     "texture":
-                        "tex/ingot/ender_end.png"
+                        "tex/ingot/enderend.png"
                 },
 
                 {
