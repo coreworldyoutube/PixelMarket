@@ -1,0 +1,995 @@
+{
+    "version": 2,
+
+    "title": "PERIODIC TABLE",
+
+    "subtitle": "ELEMENT TEXTURE COLLECTION",
+
+    "textureRoot": "tex",
+
+    "elements": [
+        {
+            "number": 1,
+            "symbol": "H",
+            "name": "Hydrogen",
+            "group": 1,
+            "period": 1,
+            "texture": null
+        },
+        {
+            "number": 2,
+            "symbol": "He",
+            "name": "Helium",
+            "group": 18,
+            "period": 1,
+            "texture": null
+        },
+
+        {
+            "number": 3,
+            "symbol": "Li",
+            "name": "Lithium",
+            "group": 1,
+            "period": 2,
+            "texture": "tex/ingot/lithium.png"
+        },
+        {
+            "number": 4,
+            "symbol": "Be",
+            "name": "Beryllium",
+            "group": 2,
+            "period": 2,
+            "texture": "tex/ingot/beryllium.png"
+        },
+        {
+            "number": 5,
+            "symbol": "B",
+            "name": "Boron",
+            "group": 13,
+            "period": 2,
+            "texture": null
+        },
+        {
+            "number": 6,
+            "symbol": "C",
+            "name": "Carbon",
+            "group": 14,
+            "period": 2,
+            "texture": null
+        },
+        {
+            "number": 7,
+            "symbol": "N",
+            "name": "Nitrogen",
+            "group": 15,
+            "period": 2,
+            "texture": null
+        },
+        {
+            "number": 8,
+            "symbol": "O",
+            "name": "Oxygen",
+            "group": 16,
+            "period": 2,
+            "texture": null
+        },
+        {
+            "number": 9,
+            "symbol": "F",
+            "name": "Fluorine",
+            "group": 17,
+            "period": 2,
+            "texture": null
+        },
+        {
+            "number": 10,
+            "symbol": "Ne",
+            "name": "Neon",
+            "group": 18,
+            "period": 2,
+            "texture": null
+        },
+
+        {
+            "number": 11,
+            "symbol": "Na",
+            "name": "Sodium",
+            "group": 1,
+            "period": 3,
+            "texture": "tex/ingot/sodium.png"
+        },
+        {
+            "number": 12,
+            "symbol": "Mg",
+            "name": "Magnesium",
+            "group": 2,
+            "period": 3,
+            "texture": "tex/ingot/magnesium.png"
+        },
+        {
+            "number": 13,
+            "symbol": "Al",
+            "name": "Aluminum",
+            "group": 13,
+            "period": 3,
+            "texture": "tex/ingot/aluminum.png"
+        },
+        {
+            "number": 14,
+            "symbol": "Si",
+            "name": "Silicon",
+            "group": 14,
+            "period": 3,
+            "texture": null
+        },
+        {
+            "number": 15,
+            "symbol": "P",
+            "name": "Phosphorus",
+            "group": 15,
+            "period": 3,
+            "texture": null
+        },
+        {
+            "number": 16,
+            "symbol": "S",
+            "name": "Sulfur",
+            "group": 16,
+            "period": 3,
+            "texture": null
+        },
+        {
+            "number": 17,
+            "symbol": "Cl",
+            "name": "Chlorine",
+            "group": 17,
+            "period": 3,
+            "texture": null
+        },
+        {
+            "number": 18,
+            "symbol": "Ar",
+            "name": "Argon",
+            "group": 18,
+            "period": 3,
+            "texture": null
+        },
+
+        {
+            "number": 19,
+            "symbol": "K",
+            "name": "Potassium",
+            "group": 1,
+            "period": 4,
+            "texture": "tex/ingot/potassium.png"
+        },
+        {
+            "number": 20,
+            "symbol": "Ca",
+            "name": "Calcium",
+            "group": 2,
+            "period": 4,
+            "texture": "tex/ingot/calcium.png"
+        },
+        {
+            "number": 21,
+            "symbol": "Sc",
+            "name": "Scandium",
+            "group": 3,
+            "period": 4,
+            "texture": "tex/ingot/scandium.png"
+        },
+        {
+            "number": 22,
+            "symbol": "Ti",
+            "name": "Titanium",
+            "group": 4,
+            "period": 4,
+            "texture": "tex/ingot/titanium.png"
+        },
+        {
+            "number": 23,
+            "symbol": "V",
+            "name": "Vanadium",
+            "group": 5,
+            "period": 4,
+            "texture": "tex/ingot/vanadium.png"
+        },
+        {
+            "number": 24,
+            "symbol": "Cr",
+            "name": "Chromium",
+            "group": 6,
+            "period": 4,
+            "texture": "tex/ingot/chromium.png"
+        },
+        {
+            "number": 25,
+            "symbol": "Mn",
+            "name": "Manganese",
+            "group": 7,
+            "period": 4,
+            "texture": "tex/ingot/manganese.png"
+        },
+        {
+            "number": 26,
+            "symbol": "Fe",
+            "name": "Iron",
+            "group": 8,
+            "period": 4,
+            "texture": "tex/ingot/iron.png"
+        },
+        {
+            "number": 27,
+            "symbol": "Co",
+            "name": "Cobalt",
+            "group": 9,
+            "period": 4,
+            "texture": "tex/ingot/cobalt.png"
+        },
+        {
+            "number": 28,
+            "symbol": "Ni",
+            "name": "Nickel",
+            "group": 10,
+            "period": 4,
+            "texture": "tex/ingot/nickel.png"
+        },
+        {
+            "number": 29,
+            "symbol": "Cu",
+            "name": "Copper",
+            "group": 11,
+            "period": 4,
+            "texture": "tex/ingot/copper.png"
+        },
+        {
+            "number": 30,
+            "symbol": "Zn",
+            "name": "Zinc",
+            "group": 12,
+            "period": 4,
+            "texture": "tex/ingot/zinc.png"
+        },
+        {
+            "number": 31,
+            "symbol": "Ga",
+            "name": "Gallium",
+            "group": 13,
+            "period": 4,
+            "texture": "tex/ingot/gallium.png"
+        },
+        {
+            "number": 32,
+            "symbol": "Ge",
+            "name": "Germanium",
+            "group": 14,
+            "period": 4,
+            "texture": null
+        },
+        {
+            "number": 33,
+            "symbol": "As",
+            "name": "Arsenic",
+            "group": 15,
+            "period": 4,
+            "texture": null
+        },
+        {
+            "number": 34,
+            "symbol": "Se",
+            "name": "Selenium",
+            "group": 16,
+            "period": 4,
+            "texture": null
+        },
+        {
+            "number": 35,
+            "symbol": "Br",
+            "name": "Bromine",
+            "group": 17,
+            "period": 4,
+            "texture": null
+        },
+        {
+            "number": 36,
+            "symbol": "Kr",
+            "name": "Krypton",
+            "group": 18,
+            "period": 4,
+            "texture": null
+        },
+
+        {
+            "number": 37,
+            "symbol": "Rb",
+            "name": "Rubidium",
+            "group": 1,
+            "period": 5,
+            "texture": "tex/ingot/rubidium.png"
+        },
+        {
+            "number": 38,
+            "symbol": "Sr",
+            "name": "Strontium",
+            "group": 2,
+            "period": 5,
+            "texture": "tex/ingot/strontium.png"
+        },
+        {
+            "number": 39,
+            "symbol": "Y",
+            "name": "Yttrium",
+            "group": 3,
+            "period": 5,
+            "texture": "tex/ingot/yttrium.png"
+        },
+        {
+            "number": 40,
+            "symbol": "Zr",
+            "name": "Zirconium",
+            "group": 4,
+            "period": 5,
+            "texture": "tex/ingot/zirconium.png"
+        },
+        {
+            "number": 41,
+            "symbol": "Nb",
+            "name": "Niobium",
+            "group": 5,
+            "period": 5,
+            "texture": "tex/ingot/niobium.png"
+        },
+        {
+            "number": 42,
+            "symbol": "Mo",
+            "name": "Molybdenum",
+            "group": 6,
+            "period": 5,
+            "texture": "tex/ingot/molybdenum.png"
+        },
+        {
+            "number": 43,
+            "symbol": "Tc",
+            "name": "Technetium",
+            "group": 7,
+            "period": 5,
+            "texture": null
+        },
+        {
+            "number": 44,
+            "symbol": "Ru",
+            "name": "Ruthenium",
+            "group": 8,
+            "period": 5,
+            "texture": "tex/ingot/ruthenium.png"
+        },
+        {
+            "number": 45,
+            "symbol": "Rh",
+            "name": "Rhodium",
+            "group": 9,
+            "period": 5,
+            "texture": "tex/ingot/rhodium.png"
+        },
+        {
+            "number": 46,
+            "symbol": "Pd",
+            "name": "Palladium",
+            "group": 10,
+            "period": 5,
+            "texture": "tex/ingot/palladium.png"
+        },
+        {
+            "number": 47,
+            "symbol": "Ag",
+            "name": "Silver",
+            "group": 11,
+            "period": 5,
+            "texture": "tex/ingot/silver.png"
+        },
+        {
+            "number": 48,
+            "symbol": "Cd",
+            "name": "Cadmium",
+            "group": 12,
+            "period": 5,
+            "texture": "tex/ingot/cadmium.png"
+        },
+        {
+            "number": 49,
+            "symbol": "In",
+            "name": "Indium",
+            "group": 13,
+            "period": 5,
+            "texture": "tex/ingot/indium.png"
+        },
+        {
+            "number": 50,
+            "symbol": "Sn",
+            "name": "Tin",
+            "group": 14,
+            "period": 5,
+            "texture": "tex/ingot/tin.png"
+        },
+        {
+            "number": 51,
+            "symbol": "Sb",
+            "name": "Antimony",
+            "group": 15,
+            "period": 5,
+            "texture": null
+        },
+        {
+            "number": 52,
+            "symbol": "Te",
+            "name": "Tellurium",
+            "group": 16,
+            "period": 5,
+            "texture": null
+        },
+        {
+            "number": 53,
+            "symbol": "I",
+            "name": "Iodine",
+            "group": 17,
+            "period": 5,
+            "texture": null
+        },
+        {
+            "number": 54,
+            "symbol": "Xe",
+            "name": "Xenon",
+            "group": 18,
+            "period": 5,
+            "texture": null
+        },
+
+        {
+            "number": 55,
+            "symbol": "Cs",
+            "name": "Cesium",
+            "group": 1,
+            "period": 6,
+            "texture": "tex/ingot/cesium.png"
+        },
+        {
+            "number": 56,
+            "symbol": "Ba",
+            "name": "Barium",
+            "group": 2,
+            "period": 6,
+            "texture": "tex/ingot/barium.png"
+        },
+
+        {
+            "number": 72,
+            "symbol": "Hf",
+            "name": "Hafnium",
+            "group": 4,
+            "period": 6,
+            "texture": "tex/ingot/hafnium.png"
+        },
+        {
+            "number": 73,
+            "symbol": "Ta",
+            "name": "Tantalum",
+            "group": 5,
+            "period": 6,
+            "texture": "tex/ingot/tantalum.png"
+        },
+        {
+            "number": 74,
+            "symbol": "W",
+            "name": "Tungsten",
+            "group": 6,
+            "period": 6,
+            "texture": "tex/ingot/tungsten.png"
+        },
+        {
+            "number": 75,
+            "symbol": "Re",
+            "name": "Rhenium",
+            "group": 7,
+            "period": 6,
+            "texture": "tex/ingot/rhenium.png"
+        },
+        {
+            "number": 76,
+            "symbol": "Os",
+            "name": "Osmium",
+            "group": 8,
+            "period": 6,
+            "texture": "tex/ingot/osmium.png"
+        },
+        {
+            "number": 77,
+            "symbol": "Ir",
+            "name": "Iridium",
+            "group": 9,
+            "period": 6,
+            "texture": "tex/ingot/iridium.png"
+        },
+        {
+            "number": 78,
+            "symbol": "Pt",
+            "name": "Platinum",
+            "group": 10,
+            "period": 6,
+            "texture": "tex/ingot/platinum.png"
+        },
+        {
+            "number": 79,
+            "symbol": "Au",
+            "name": "Gold",
+            "group": 11,
+            "period": 6,
+            "texture": "tex/ingot/gold.png"
+        },
+        {
+            "number": 80,
+            "symbol": "Hg",
+            "name": "Mercury",
+            "group": 12,
+            "period": 6,
+            "texture": "tex/ingot/mercury.png"
+        },
+        {
+            "number": 81,
+            "symbol": "Tl",
+            "name": "Thallium",
+            "group": 13,
+            "period": 6,
+            "texture": "tex/ingot/thallium.png"
+        },
+        {
+            "number": 82,
+            "symbol": "Pb",
+            "name": "Lead",
+            "group": 14,
+            "period": 6,
+            "texture": "tex/ingot/lead.png"
+        },
+        {
+            "number": 83,
+            "symbol": "Bi",
+            "name": "Bismuth",
+            "group": 15,
+            "period": 6,
+            "texture": "tex/ingot/bismuth.png"
+        },
+        {
+            "number": 84,
+            "symbol": "Po",
+            "name": "Polonium",
+            "group": 16,
+            "period": 6,
+            "texture": null
+        },
+        {
+            "number": 85,
+            "symbol": "At",
+            "name": "Astatine",
+            "group": 17,
+            "period": 6,
+            "texture": null
+        },
+        {
+            "number": 86,
+            "symbol": "Rn",
+            "name": "Radon",
+            "group": 18,
+            "period": 6,
+            "texture": null
+        },
+
+        {
+            "number": 87,
+            "symbol": "Fr",
+            "name": "Francium",
+            "group": 1,
+            "period": 7,
+            "texture": null
+        },
+        {
+            "number": 88,
+            "symbol": "Ra",
+            "name": "Radium",
+            "group": 2,
+            "period": 7,
+            "texture": null
+        },
+
+        {
+            "number": 104,
+            "symbol": "Rf",
+            "name": "Rutherfordium",
+            "group": 4,
+            "period": 7,
+            "texture": null
+        },
+        {
+            "number": 105,
+            "symbol": "Db",
+            "name": "Dubnium",
+            "group": 5,
+            "period": 7,
+            "texture": null
+        },
+        {
+            "number": 106,
+            "symbol": "Sg",
+            "name": "Seaborgium",
+            "group": 6,
+            "period": 7,
+            "texture": null
+        },
+        {
+            "number": 107,
+            "symbol": "Bh",
+            "name": "Bohrium",
+            "group": 7,
+            "period": 7,
+            "texture": null
+        },
+        {
+            "number": 108,
+            "symbol": "Hs",
+            "name": "Hassium",
+            "group": 8,
+            "period": 7,
+            "texture": null
+        },
+        {
+            "number": 109,
+            "symbol": "Mt",
+            "name": "Meitnerium",
+            "group": 9,
+            "period": 7,
+            "texture": null
+        },
+        {
+            "number": 110,
+            "symbol": "Ds",
+            "name": "Darmstadtium",
+            "group": 10,
+            "period": 7,
+            "texture": null
+        },
+        {
+            "number": 111,
+            "symbol": "Rg",
+            "name": "Roentgenium",
+            "group": 11,
+            "period": 7,
+            "texture": null
+        },
+        {
+            "number": 112,
+            "symbol": "Cn",
+            "name": "Copernicium",
+            "group": 12,
+            "period": 7,
+            "texture": null
+        },
+        {
+            "number": 113,
+            "symbol": "Nh",
+            "name": "Nihonium",
+            "group": 13,
+            "period": 7,
+            "texture": null
+        },
+        {
+            "number": 114,
+            "symbol": "Fl",
+            "name": "Flerovium",
+            "group": 14,
+            "period": 7,
+            "texture": null
+        },
+        {
+            "number": 115,
+            "symbol": "Mc",
+            "name": "Moscovium",
+            "group": 15,
+            "period": 7,
+            "texture": null
+        },
+        {
+            "number": 116,
+            "symbol": "Lv",
+            "name": "Livermorium",
+            "group": 16,
+            "period": 7,
+            "texture": null
+        },
+        {
+            "number": 117,
+            "symbol": "Ts",
+            "name": "Tennessine",
+            "group": 17,
+            "period": 7,
+            "texture": null
+        },
+        {
+            "number": 118,
+            "symbol": "Og",
+            "name": "Oganesson",
+            "group": 18,
+            "period": 7,
+            "texture": null
+        }
+    ],
+
+    "series": [
+
+        {
+            "id": "lanthanides",
+            "label": "LANTHANIDES",
+            "marker": "(1)",
+
+            "items": [
+                {
+                    "number": 57,
+                    "symbol": "La",
+                    "name": "Lanthanum",
+                    "texture": "tex/ingot/lanthanum.png"
+                },
+                {
+                    "number": 58,
+                    "symbol": "Ce",
+                    "name": "Cerium",
+                    "texture": "tex/ingot/cerium.png"
+                },
+                {
+                    "number": 59,
+                    "symbol": "Pr",
+                    "name": "Praseodymium",
+                    "texture": "tex/ingot/praseodymium.png"
+                },
+                {
+                    "number": 60,
+                    "symbol": "Nd",
+                    "name": "Neodymium",
+                    "texture": "tex/ingot/neodymium.png"
+                },
+                {
+                    "number": 61,
+                    "symbol": "Pm",
+                    "name": "Promethium",
+                    "texture": null
+                },
+                {
+                    "number": 62,
+                    "symbol": "Sm",
+                    "name": "Samarium",
+                    "texture": "tex/ingot/samarium.png"
+                },
+                {
+                    "number": 63,
+                    "symbol": "Eu",
+                    "name": "Europium",
+                    "texture": "tex/ingot/europium.png"
+                },
+                {
+                    "number": 64,
+                    "symbol": "Gd",
+                    "name": "Gadolinium",
+                    "texture": "tex/ingot/gadolinium.png"
+                },
+                {
+                    "number": 65,
+                    "symbol": "Tb",
+                    "name": "Terbium",
+                    "texture": "tex/ingot/terbium.png"
+                },
+                {
+                    "number": 66,
+                    "symbol": "Dy",
+                    "name": "Dysprosium",
+                    "texture": "tex/ingot/dysprosium.png"
+                },
+                {
+                    "number": 67,
+                    "symbol": "Ho",
+                    "name": "Holmium",
+                    "texture": "tex/ingot/holmium.png"
+                },
+                {
+                    "number": 68,
+                    "symbol": "Er",
+                    "name": "Erbium",
+                    "texture": "tex/ingot/erbium.png"
+                },
+                {
+                    "number": 69,
+                    "symbol": "Tm",
+                    "name": "Thulium",
+                    "texture": "tex/ingot/thulium.png"
+                },
+                {
+                    "number": 70,
+                    "symbol": "Yb",
+                    "name": "Ytterbium",
+                    "texture": "tex/ingot/ytterbium.png"
+                },
+                {
+                    "number": 71,
+                    "symbol": "Lu",
+                    "name": "Lutetium",
+                    "texture": "tex/ingot/lutetium.png"
+                }
+            ]
+        },
+
+        {
+            "id": "actinides",
+            "label": "ACTINIDES",
+            "marker": "(2)",
+
+            "items": [
+                {
+                    "number": 89,
+                    "symbol": "Ac",
+                    "name": "Actinium",
+                    "texture": null
+                },
+                {
+                    "number": 90,
+                    "symbol": "Th",
+                    "name": "Thorium",
+                    "texture": "tex/ingot/thorium.png"
+                },
+                {
+                    "number": 91,
+                    "symbol": "Pa",
+                    "name": "Protactinium",
+                    "texture": null
+                },
+                {
+                    "number": 92,
+                    "symbol": "U",
+                    "name": "Uranium",
+                    "texture": "tex/ingot/uranium.png"
+                },
+                {
+                    "number": 93,
+                    "symbol": "Np",
+                    "name": "Neptunium",
+                    "texture": null
+                },
+                {
+                    "number": 94,
+                    "symbol": "Pu",
+                    "name": "Plutonium",
+                    "texture": "tex/ingot/plutonium.png"
+                },
+                {
+                    "number": 95,
+                    "symbol": "Am",
+                    "name": "Americium",
+                    "texture": null
+                },
+                {
+                    "number": 96,
+                    "symbol": "Cm",
+                    "name": "Curium",
+                    "texture": null
+                },
+                {
+                    "number": 97,
+                    "symbol": "Bk",
+                    "name": "Berkelium",
+                    "texture": null
+                },
+                {
+                    "number": 98,
+                    "symbol": "Cf",
+                    "name": "Californium",
+                    "texture": null
+                },
+                {
+                    "number": 99,
+                    "symbol": "Es",
+                    "name": "Einsteinium",
+                    "texture": null
+                },
+                {
+                    "number": 100,
+                    "symbol": "Fm",
+                    "name": "Fermium",
+                    "texture": null
+                },
+                {
+                    "number": 101,
+                    "symbol": "Md",
+                    "name": "Mendelevium",
+                    "texture": null
+                },
+                {
+                    "number": 102,
+                    "symbol": "No",
+                    "name": "Nobelium",
+                    "texture": null
+                },
+                {
+                    "number": 103,
+                    "symbol": "Lr",
+                    "name": "Lawrencium",
+                    "texture": null
+                }
+            ]
+        }
+    ],
+
+
+    "categories": [
+
+        {
+            "id": "redstone",
+
+            "label": "REDSTONE",
+
+            "description":
+                "Redstone系統のテクスチャをここに追加できます。",
+
+            "items": [
+
+                {
+                    "id": "redstone",
+
+                    "name": "Redstone",
+
+                    "symbol": "RS",
+
+                    "type": "MATERIAL",
+
+                    "texture":
+                        "tex/redstone/redstone.png"
+                },
+
+                {
+                    "id": "redstone_block",
+
+                    "name": "Redstone Block",
+
+                    "symbol": "RB",
+
+                    "type": "BLOCK",
+
+                    "texture":
+                        "tex/redstone/redstone_block.png"
+                },
+
+                {
+                    "id": "redstone_torch",
+
+                    "name": "Redstone Torch",
+
+                    "symbol": "RT",
+
+                    "type": "ITEM",
+
+                    "texture":
+                        "tex/redstone/redstone_torch.png"
+                },
+
+                {
+                    "id": "redstone_lamp",
+
+                    "name": "Redstone Lamp",
+
+                    "symbol": "RL",
+
+                    "type": "BLOCK",
+
+                    "texture":
+                        "tex/redstone/redstone_lamp.png"
+                }
+
+            ]
+        }
+
+    ]
+}
